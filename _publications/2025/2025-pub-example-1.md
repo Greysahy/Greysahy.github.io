@@ -1,11 +1,11 @@
 ---
 title:          "IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents"
-date:           2025-05-12 00:01:00 +0800
+date:           2025-08-21 00:01:00 +0800
 selected:       true
 pub:            "Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Main</span>'
 pub_date:       "2025"
 
 abstract: >-
