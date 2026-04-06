@@ -21,10 +21,10 @@ github: Greysahy
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi there! I am a Master Student at the Zhejiang University.
+    Hi there!
   </p>
   <p>
-    Currently, my research is centered on trustworthy LLMs, with a specific emphasis on improving the reliability and robustness of LLM agents, LLM-based multi-agent systems (LLM-MAS), and large reasoning models (LRM). I'm especially interested in mitigating risks such as prompt injection in these systems.
+    My long-term research goal is to build robust, trustworthy, and self-evolving agentic systems. Currently, I mainly focus on enhancing the safety of LLM agents in open environments.
   </p>
   <p>
     Feel free to contact me if you are interested in my research!
