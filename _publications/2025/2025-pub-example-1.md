@@ -9,7 +9,6 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2025"
 
 abstract: >-
-  LLM agents face Indirect Prompt Injection (IPI) when using tools with untrusted data, as hidden instructions can make them perform malicious actions. Our new defense, IPIGuard, significantly enhances agent security against these attacks by separating action planning from external data interaction using a Tool Dependency Graph (TDG).
 cover: /assets/images/covers/cover_ipiguard.jpg
 authors:
   - Hengyu An
