@@ -35,6 +35,11 @@ portrait_caption: >-
   Taken in early 2025, Hangzhou, Zhejiang.
 
 education:
+- name: Ant Group
+  logo: assets/images/badges/antgroup.png
+  position: >- 
+    Research Intern
+  date: May. 2026 - present
 - name: Zhejiang University
   logo: assets/images/badges/Zhejiang_University_Logo.svg.png
   position: >- 
